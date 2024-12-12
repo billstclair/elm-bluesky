@@ -1,4 +1,4 @@
-[billstclair/elm-bluesky](https://package.elm-lang.org/packages/billstclair/elm-bluesky/latest) is an Elm client for the [BlueSky](https://bsky.app/) social-networking system. The BlueSky API is documented at [docs.bsky.app/docs/category/http-reference](https://docs.bsky.app/docs/category/http-reference).
+[billstclair/elm-bluesky](https://package.elm-lang.org/packages/billstclair/elm-bluesky/latest) is an Elm client for the [BlueSky](https://bsky.app/) social-networking system. The BlueSky API is documented at [docs.bsky.app/docs/category/http-reference](ohttps://docs.bsky.app/docs/category/http-reference).
 
 This library is designed to match `billstclair/elm-mastadon`, as much as makes sense.
 
